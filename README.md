@@ -20,3 +20,11 @@ Galaxy combined several rendering and animation technologies because no single s
 **\*Note:** The demonstration video doesn't fully capture the smoothness of the full-screen fade transitions due to limitations in the recording and rendering process.\*
 
 I built the entire frontend, integrating data from existing APIs and coordinating these technologies into a continuous, animated experience.
+
+## Screenshots and Demo
+
+![Galaxy overview](galaxy-01.png)
+
+![Galaxy detail view](galaxy-02.png)
+
+[Watch the Galaxy demonstration video](galaxy.mp4)

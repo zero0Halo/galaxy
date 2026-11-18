@@ -27,4 +27,4 @@ I built the entire frontend, integrating data from existing APIs and coordinatin
 
 ![Galaxy detail view](galaxy-02.png)
 
-[Watch the Galaxy demonstration video](galaxy.mp4)
+# 👁️ [Watch the Galaxy demonstration video](galaxy.mp4) 👁️

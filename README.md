@@ -17,7 +17,7 @@ Galaxy combined several rendering and animation technologies because no single s
 - **CSS Animations:** Controlled planetary orbits and kept their shadows correctly positioned throughout the movement.
 - **Velocity.js:** Provided smooth, full-screen fade transitions between visual states.
 
-**\*Note:** The demonstration video doesn't fully capture the smoothness of the full-screen fade transitions due to limitations in the recording and rendering process.\*
+**_Note:_** _The demonstration video doesn't fully capture the smoothness of the full-screen fade transitions due to limitations in the recording and rendering process._
 
 I built the entire frontend, integrating data from existing APIs and coordinating these technologies into a continuous, animated experience.
 

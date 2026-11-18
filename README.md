@@ -21,10 +21,14 @@ Galaxy combined several rendering and animation technologies because no single s
 
 I built the entire frontend, integrating data from existing APIs and coordinating these technologies into a continuous, animated experience.
 
+## My Role
+
+I was the sole frontend engineer on Galaxy, responsible for implementing the entire interactive experience. Working from the visual designs and integrating data from existing APIs, I built the rendering, animation, and navigation systems that brought the project to life.
+
 ## Screenshots and Demo
+
+### 👁️ [Watch the Galaxy demonstration video](https://zero0halo.github.io/galaxy/) 👁️
 
 ![Galaxy overview](galaxy-01.png)
 
 ![Galaxy detail view](galaxy-02.png)
-
-# 👁️ [Watch the Galaxy demonstration video](https://zero0halo.github.io/galaxy/) 👁️
